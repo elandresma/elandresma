@@ -13,9 +13,5 @@ I'm currently working on Software One<br>I'm looking for help with React, SPFx, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andresma&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=andresma&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"Donde hay buena disciplina, hay orden y rara vez falta la buena fortuna."
+                                                                    -Nicolás Maquiavelo
